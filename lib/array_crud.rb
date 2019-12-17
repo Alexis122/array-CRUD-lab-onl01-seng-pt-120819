@@ -34,12 +34,6 @@ end
 
 def retrieve_element_from_index(array, index_number)
   restaurants = ["Frankies", "Sauce", "Scarpetta", "BMC"]
-
-		restaurants [1]
-		
-		restaurants [2]
-		
-		restaurants [3]
 end
 
 def retrieve_first_element_from_array(array)
@@ -47,5 +41,5 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  
+  	restaurants [4]
 end
